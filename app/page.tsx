@@ -80,7 +80,7 @@ export default function Home() {
             </p>
   
             <p>
-              <strong>Sounds like AI slop!</strong> You're reading, you're engaged, you gave some of your irredeemable time to this; might as well try and come to a real conclusion on your own.
+              <strong>Sounds like AI slop!</strong> You're reading, you're engaged, you gave some of your time to this; might as well try and come to a real conclusion on your own.
             </p>
         </section>
 
