@@ -114,8 +114,16 @@ export default function Home() {
         </section>
       </main>
 
-      <footer className="px-8 pb-10 text-center text-xs tracking-wide text-[var(--cream-dim)]">
-        © 2026 Voidback, Inc.
+      <footer className="flex flex-col items-center gap-3 px-8 pb-10 text-center text-xs tracking-wide text-[var(--cream-dim)]">
+        <a
+          href="https://neuralor.substack.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline decoration-[var(--cream-dim)] underline-offset-4 transition-colors hover:text-[var(--cream)] hover:decoration-[var(--cream)]"
+        >
+          Neuralor, the founder&apos;s writing
+        </a>
+        <span>© 2026 Voidback, Inc.</span>
       </footer>
     </>
   );
