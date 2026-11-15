@@ -68,7 +68,7 @@ export default function Home() {
 
         <section className="max-w-xl space-y-5 text-base leading-relaxed text-[var(--cream-dim)] flex flex-col gap-0">
             <p>
-              <strong>What things?</strong> software for now, hardware later.
+              <strong>What things?</strong> software for now.
             </p>
 
             <p>
